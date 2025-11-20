@@ -1,7 +1,7 @@
 # 🖥️ Praktikum Pemrograman Web - PHP Dasar
 
-**Nama:** Aflah Athallah Tamam Kapukong  
-**NIM:** 312410280  
+**Nama:** Zaid Al Anshary  
+**NIM:** 312410315  
 **Kelas:** TI 24A4  
 **Mata Kuliah:** Pemrograman Web  
 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom.  
