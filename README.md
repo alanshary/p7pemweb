@@ -12,15 +12,16 @@
 
 **1. Memulai PHP**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_48_26-Greenshot.png)
+<img width="1366" height="768" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/81d151aa-b95c-49f9-8770-046fc47e9bf0" />
+
 
 **2. PHP DASAR**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_49_14-Greenshot.png)
+<img width="1366" height="768" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/9fe57e5c-87d8-44ff-9353-9938a8fcfd3a" />
 
 **3. VARIABLE PHP**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_50_46-Greenshot.png)
+<img width="1366" height="768" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/cbf1288d-571f-4026-86c9-308ac5b75067" />
 
 **4. PREDEFINE VARIABLE**
 
