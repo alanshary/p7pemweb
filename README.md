@@ -25,11 +25,12 @@
 
 **4. PREDEFINE VARIABLE**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_51_40-Greenshot.png)
+<img width="1366" height="768" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/2a0ac2b7-4335-446d-a785-9e5d3e16763a" />
+
 
 **5. FROM INPUT**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_52_15-Greenshot.png)
+<img width="1366" height="768" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/9fe02ce4-7de7-497a-aa5c-4766cdc0a0fd" />
 
 **6. OPERATOR, KONDISI IF, KONDISI SWITCH, PERULANGAN FOR**
 
@@ -45,7 +46,8 @@
 
 **9. FORM INPUT DATA DIRI**
 
-![gambar](https://github.com/Abcdeflahhh/p7pemweb/blob/ff5b34455f3fcb67726d6e48e35000a8034aabae/image/2025-11-13%2017_59_57-Greenshot.png)
+<img width="1366" height="768" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/15dc2929-e473-4a6c-82ae-e288bb110008" />
+
 
 ---
 
